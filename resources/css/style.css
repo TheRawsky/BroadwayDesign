@@ -27,7 +27,7 @@ h1 {
 }
 
 h2 {
-	fonz-size: 32;
+	font-size: 32px;
 	font-weight: bold;
 }
 
@@ -48,6 +48,9 @@ p {
 	background-color: dimgray;
 	text-align: left;
 	color: white;
+}
+.support h2{
+	font-size: 32px;
 }
 
 
